@@ -1,56 +1,43 @@
 {
-  {
-    "email": "Omar.khasawneh@live.com",
-    "gender": "male",
-    "phone_number": "+49 162 5280480",
-    "birthdate": 691627396,
-    "location": {
-      "street": "Mohnstr. 46",
-      "city": "Dresden",
-      "state": "north karelia",
-      "postcode": 15409
+  "Profiles": [
+    {
+      "email": "Omar.khasawneh@live.com",
+      "gender": "male",
+      "phone_number": "+49 162 5280480",
+      "birthdate": 691627396,
+      "location": {
+        "street": "Mohnstr. 46",
+        "city": "Dresden",
+        "state": "north karelia",
+        "postcode": 15409
+      },
+      "username": "orangemouse353",
+      "password": "5424",
+      "first_name": "väinö",
+      "last_name": "huotari",
+      "title": "mr",
+      "picture": "algolia/men/raymond.png"
     },
-    "username": "orangemouse353",
-    "password": "5424",
-    "first_name": "väinö",
-    "last_name": "huotari",
-    "title": "mr",
-    "picture": "algolia/men/raymond.png"
-  },
-  {
-    "email": "väinö.huotari@example.com",
-    "gender": "male",
-    "phone_number": "042-857-08-93",
-    "birthdate": 691627396,
-    "location": {
-      "street": "8880 nordenskiöldinkatu",
-      "city": "lapinlahti",
-      "state": "north karelia",
-      "postcode": 15409
+    {
+      "email": "Omar.khasawneh@live.com",
+      "gender": "male",
+      "phone_number": "+49 162 5280480",
+      "birthdate": 691627396,
+      "location": {
+        "street": "Mohnstr. 46",
+        "city": "Dresden",
+        "state": "north karelia",
+        "postcode": 15409
+      },
+      "username": "orangemouse353",
+      "password": "5424",
+      "first_name": "väinö",
+      "last_name": "huotari",
+      "title": "mr",
+      "picture": "algolia/men/raymond.png"
     },
-    "username": "orangemouse353",
-    "password": "5424",
-    "first_name": "väinö",
-    "last_name": "huotari",
-    "title": "mr",
-    "picture": "algolia/men/raymond.png"
-  },
-  {
-    "email": "väinö.huotari@example.com",
-    "gender": "male",
-    "phone_number": "042-857-08-93",
-    "birthdate": 691627396,
-    "location": {
-      "street": "8880 nordenskiöldinkatu",
-      "city": "lapinlahti",
-      "state": "north karelia",
-      "postcode": 15409
-    },
-    "username": "orangemouse353",
-    "password": "5424",
-    "first_name": "väinö",
-    "last_name": "huotari",
-    "title": "mr",
-    "picture": "algolia/men/raymond.png"
-  },
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
